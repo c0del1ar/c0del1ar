@@ -1,4 +1,5 @@
 # 💫 About Me:
+![image](https://d4rk5idehacker.or.id/img/members/AryaKun.jpg)
 Hi you, welcome to my Github account. This is my personal information description.<br><br>I like something like codes, I love algorithms, it cause me to learn and happy to write codes for make a program which usefull for many people.<br><br>Growing up is about to read books and always practice the exams in a row.<br>
 
 
