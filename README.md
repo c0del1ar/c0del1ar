@@ -1,7 +1,11 @@
 # 💫 About Me:
-![image](https://d4rk5idehacker.or.id/img/members/AryaKun.jpg)
+![logo](https://aryakun.id/static/favicon.ico)
 Hi you, welcome to my Github account. This is my personal information description.<br><br>I like something like codes, I love algorithms, it cause me to learn and happy to write codes for make a program which usefull for many people.<br><br>Growing up is about to read books and always practice the exams in a row.<br>
 
+## 📃 Certificates:
+list of certificates that I have obtained with my abilities:
+- [CNSP (Certified Network Security Practitioner)](https://aryakun.id/certificate/cnsp.pdf)
+- [ISO/IEC 27001:2022](https://aryakun.id/certificate/iso270012022.pdf)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011377430855&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryakresna7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/c0del1ar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AryaKresna) 
