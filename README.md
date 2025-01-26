@@ -2,7 +2,7 @@
 ![logo](https://aryakun.id/static/favicon.ico)
 Hi you, welcome to my Github account. This is my personal information description.<br><br>I like something like codes, I love algorithms, it cause me to learn and happy to write codes for make a program which usefull for many people.<br><br>Growing up is about to read books and always practice the exams in a row.<br>
 
-## 📃 Certificates:
+# 📃 Certificates:
 list of certificates that I have obtained with my abilities:
 - [CNSP (Certified Network Security Practitioner)](https://aryakun.id/certificate/cnsp.pdf)
 - [ISO/IEC 27001:2022](https://aryakun.id/certificate/iso270012022.pdf)
