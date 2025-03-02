@@ -6,6 +6,7 @@ Hi you, welcome to my Github account. This is my personal information descriptio
 list of certificates that I have obtained with my abilities:
 - [CNSP (Certified Network Security Practitioner)](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/cnsp.pdf)
 - [ISO/IEC 27001:2022](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/iso270012022.pdf)
+- [CASF (Certified Associate In Scrum Fundamentals)](https://www.skillfront.com/certifications/SkillFront-SFE005eadfe306b3-42606821056320.pdf)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011377430855&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryakresna7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/c0del1ar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AryaKresna) 
