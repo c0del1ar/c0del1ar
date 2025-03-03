@@ -1,6 +1,6 @@
 # 💫 About Me:
-![logo](https://aryakun.id/static/favicon.ico)
-Hi you, welcome to my Github account. This is my personal information description.<br><br>I like something like codes, I love algorithms, it cause me to learn and happy to write codes for make a program which usefull for many people.<br><br>Growing up is about to read books and always practice the exams in a row.<br>
+
+  <img src="https://raw.githubusercontent.com/c0del1ar/c0del1ar/refs/heads/main/mylogo.jpg" height="auto" width="200" style="border-radius:50%"> Hi you, welcome to my Github account. This is my personal information description.<br><br>I like something like codes, I love algorithms, it cause me to learn and happy to write codes for make a program which usefull for many people.<br><br>Growing up is about to read books and always practice the exams in a row.<br>
 
 # 📃 Certificates:
 list of certificates that I have obtained with my abilities:
@@ -21,17 +21,13 @@ list of certificates that I have obtained with my abilities:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=c0del1ar&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=c0del1ar&icon=1&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=c0del1ar&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aryakun) 
 
+## 💰 You can help me by Donating
+
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aryakun)
+  <a href="https://www.buymeacoffee.com/aryakun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
