@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/c0del1ar/c0del1ar/refs/heads/main/mylogo.jpg" height="auto" width="200" style="border-radius:50%"> Hi you, welcome to my Github account. This is my personal information description.<br><br>I like something like codes, I love algorithms, it cause me to learn and happy to write codes for make a program which usefull for many people.<br><br>Growing up is about to read books and always practice the exams in a row.<br>
 
-# 📃 Certificates:
+# 📃 Certification:
 list of certificates that I have obtained with my abilities:
 - [CNSP (Certified Network Security Practitioner)](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/cnsp.pdf)
 - [ISO/IEC 27001:2022](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/iso270012022.pdf)
@@ -29,5 +29,6 @@ list of certificates that I have obtained with my abilities:
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aryakun)
   <a href="https://www.buymeacoffee.com/aryakun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://trakteer.id/aryakun" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=24-01-2025" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
