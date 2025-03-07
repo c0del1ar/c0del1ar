@@ -5,7 +5,8 @@
 # 📃 Certification:
 list of certificates that I have obtained with my abilities:
 - [CNSP (Certified Network Security Practitioner)](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/cnsp.pdf)
-- [ISO/IEC 27001:2022](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/iso270012022.pdf)
+- [CAP (Certified AppSec Practitioner)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXX11inpXbXe3R4hh/w6a+F4tgFP3dHb0ciL2OVpW4e16My28Q71YRFqvkCOE6C97RYPPNEpCHFZOdchUIbaMjhY=)
+- [ISO/IEC 27001:2022 Information Security Associate](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/iso270012022.pdf)
 - [CASF (Certified Associate In Scrum Fundamentals)](https://www.skillfront.com/certifications/SkillFront-SFE005eadfe306b3-42606821056320.pdf)
 
 ## 🌐 Socials:
