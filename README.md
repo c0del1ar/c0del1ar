@@ -11,7 +11,7 @@ list of certificates that I have obtained with my abilities:
 | [CAP (Certified AppSec Practitioner)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXX11inpXbXe3R4hh/w6a+F4tgFP3dHb0ciL2OVpW4e16My28Q71YRFqvkCOE6C97RYPPNEpCHFZOdchUIbaMjhY=) | [The SecOps Group](https://secops.group/)|
 | [ISO/IEC 27001:2022 Information Security Associate](https://github.com/c0del1ar/c0del1ar/blob/ac8bce81084329ca121036f6b5f603c87690b0ee/iso270012022.pdf) | [SkillFront](https://skillfront.com) |
 | [CASF (Certified Associate In Scrum Fundamentals)](https://www.skillfront.com/certifications/SkillFront-SFE005eadfe306b3-42606821056320.pdf) | [SkillFront](https://skillfront.com) |
-| [ISO 9001 Quality Management Associate](https://www.skillfront.com/certifications/SkillFront-SFE02355ecea9b31-32904223989799.pdf) | [SkillFront](https://skillfront.com) |
+| [ISO 9001 Quality Management Systems Associate](https://www.skillfront.com/certifications/SkillFront-SFE02355ecea9b31-32904223989799.pdf) | [SkillFront](https://skillfront.com) |
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011377430855&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryakresna7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/c0del1ar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AryaKresna) 
