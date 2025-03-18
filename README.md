@@ -13,6 +13,7 @@ list of certificates that I have obtained with my abilities:
 | [CASF](https://www.skillfront.com/certifications/SkillFront-SFE005eadfe306b3-42606821056320.pdf) | Certified Associate In Scrum Fundamentals | [SkillFront](https://skillfront.com) |
 | [ISO 9001](https://www.skillfront.com/certifications/SkillFront-SFE02355ecea9b31-32904223989799.pdf) | Quality Management Systems Associate | [SkillFront](https://skillfront.com) |
 | [ISO/IEC 20000](https://www.skillfront.com/certifications/SkillFront-SFE040166dc5a133-95647483686664.pdf) | IT Service Management Associate | [SkillFront](https://skillfront.com) |
+| | [Foundations Of Business And Entrepreneurship](https://www.skillfront.com/certifications/SkillFront-SFE0014abfb1822c-96911609121666.pdf) | [SkillFront](https://skillfront.com) |
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011377430855&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryakresna7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/c0del1ar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AryaKresna) 
